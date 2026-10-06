@@ -1,4 +1,3 @@
-//this is the project of bilal and arun gopi
 #include "pin.H"
 
 #include <iostream>
