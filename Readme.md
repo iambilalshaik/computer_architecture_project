@@ -468,6 +468,3 @@ Developed as a project for studying:
 - Computer Architecture Performance Analysis
 
 ## Shaik Hazrath Bilal 
-## Para Arun Gopi Chandu 
-## Koilapu SivaSankaraDasu
-## students at IIT Ropar
